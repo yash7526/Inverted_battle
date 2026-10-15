@@ -1,1 +1,0 @@
-All stage textures (sandstone tiles, bricks, the arena medallion, banners, neon sign, city windows) are generated at runtime with Canvas in `src/arenas/`. Place image textures here if you want to replace any of them, and load them with `THREE.TextureLoader` in the relevant arena file.

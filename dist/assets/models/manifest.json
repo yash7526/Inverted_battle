@@ -1,0 +1,8 @@
+{
+  "_comment": "Map a character id to a GLB file in this folder to replace the built-in procedural model. Leave null to use the procedural model. See README 'Adding character models'.",
+  "sambhu": null,
+  "simba": null,
+  "maddy": null,
+  "ghost": null,
+  "blackout": null
+}
